@@ -9,9 +9,6 @@ url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. 
 github_username:  btholkes
 instagram_username: greekhospitality
 
-sass:
-    sass_dir: ./_scss
-
 # Build settings
 markdown: kramdown
 paginate:          5
